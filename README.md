@@ -1,2 +1,14 @@
 # baoweifootball-notes
-HTML page archive and documentation
+
+HTML 资料页存档
+
+这里是自动发布页面的存放目录，用于集中维护生成结果。
+
+## 输出文件
+
+- 发布产物会保存为 HTML
+- 说明文本会保存在 README
+
+## 文件维护
+
+请以仓库当前文件和提交记录判断最新状态。
